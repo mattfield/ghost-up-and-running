@@ -9,8 +9,8 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #111111;
-  background-color: #111111; }
+  background: #18191b;
+  background-color: #18191b; }
 
 .reveal {
   font-family: "Open Sans", sans-serif;
@@ -83,6 +83,10 @@ body {
   background: rgba(255, 255, 255, 0.2);
   border-color: #e7ad52;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
+
+.reveal section img.round {
+  border-radius: 100%;
+}
 
 /*********************************************
  * NAVIGATION CONTROLS

@@ -1,0 +1,50 @@
+#+TITLE: Ghost: Up and Running
+#+AUTHOR: Matt Field
+#+DATE: <2013-11-29 Fri>
+
+* Quick intro
+Matt Field. Programmer.
+Thanks very much for having me in.
+
+* What is Ghost?
+"Just a blogging platform"
+Free. Open-source. Simple to use. Media publication for the masses.
+
+* Story behind Ghost
+** Started with a blog post
+Nov 2012 - John O'Nolan wrote a blog post about his idea of an ideal blogging platform - minimal UI, nothing gets in the way of the publisher and their writing
+Purpose of post was to see whether bloggers were running into same frustrations
+Positive feedback so set about building a WP plugin that would totally replace the admin section (picture of WP admin area, shock GIF!)
+Found themselves hitting the same technological and philosophical brick walls -> decided to build own app
+
+** Kickstarter
+After a prototype, went up on Kickstarter
+Original goal of £25k was reached in just under 11 hours
+4 weeks -> nearly £200k, nearly 6000 backers
+
+** Ghost is a non-profit
+No ownership, no investers, no stakeholders
+Can't sell out, no "exit strategy"
+No-one can use monetary influence to sway the course of Ghost
+Every penny can only be put towards developing Ghost
+
+** Become public on October 14th - public GitHub repo
+
+* Core features
+** Built in Node.js
+** Highly customisable
+*** Built using Handlebars templating system
+Keeps application logic and view logic separate
+*** Very easy to skin new themes
+*** Low bar to entry - don't need know PHP; it's just HTML and CSS
+** Very minimal UI - tries to put nothing between a publisher and their content
+
+* Up and Running
+** Two ways you can get up and running with Ghost:
+*** 1. Local development: download Ghost source && `npm install ghost --production`
+Development locally and deploy to your own server, or
+*** 2. Hosted one-click installations
+Currently available on Bitnami, Rackspace or DigitalOcean
+  
+* Live demo!
+** Hold on to your butts...
