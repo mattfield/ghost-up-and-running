@@ -50,6 +50,12 @@ body {
   background-size: contain;
 }
 
+.reveal .highlight {
+  background: #5ba4e5;
+  display: inline-block;
+  padding: 14px;
+}
+
 /*********************************************
  * LINKS
  *********************************************/
