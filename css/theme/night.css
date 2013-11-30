@@ -56,6 +56,10 @@ body {
   padding: 14px;
 }
 
+.reveal .monospace {
+  font-family: monospace;
+}
+
 /*********************************************
  * LINKS
  *********************************************/
@@ -98,6 +102,12 @@ body {
 
 .reveal section img.round {
   border-radius: 100%;
+}
+
+.reveal section img.no-border {
+  border: 0;
+  box-shadow: none;
+  background: none;
 }
 
 /*********************************************
